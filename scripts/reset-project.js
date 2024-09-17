@@ -7,7 +7,7 @@
  */
 
 const fs = require('fs');
-const path = require('path');
+const path = require('path')
 
 const root = process.cwd();
 const oldDirPath = path.join(root, 'app');
